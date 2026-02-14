@@ -48,6 +48,8 @@ Pacotes necessários do sistema:
 
 sudo apt update
 sudo apt install xclip crow-translate libnotify-bin
+
+
 Verifique se estão instalados:
 
 xclip -version
