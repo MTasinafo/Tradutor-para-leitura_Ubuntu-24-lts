@@ -47,7 +47,7 @@ python3 --version
 Pacotes necessários do sistema:
 
 sudo apt update
-sudo apt install xclip crow-translate libnotify-bin
+sudo apt install xclip crow-translate
 
 Verifique se estão instalados:
 
