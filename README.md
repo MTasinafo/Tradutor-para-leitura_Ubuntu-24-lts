@@ -1,0 +1,1 @@
+# Tradutor-para-leitura_Ubuntu-24-lts
